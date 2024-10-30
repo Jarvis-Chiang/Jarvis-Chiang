@@ -1,5 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove)
-### Hi there, I'm Jarvis-Jiang <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi there, I'm Jarvis-Jiang <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 -->
 
-## I'm a Machine Learning/Deep Learning Enthusiast!
+### I'm a Machine Learning/Deep Learning Enthusiast!
 
 - I’m currently working on building my knowledge in the field of Data Science!
   - Learning Computer Vision, Natural Language Processing
