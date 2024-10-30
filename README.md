@@ -6,6 +6,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
+<!--
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/sachinchaturvedi93)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachin93)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sachinchaturvedi93/)
@@ -14,6 +15,8 @@ You can use the website to generate badges: https://shields.io/
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/sachin93)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sachin93)
 &nbsp;
+-->
+
 ## I'm a Machine Learning/Deep Learning Enthusiast!
 
 - I’m currently working on building my knowledge in the field of Data Science!
@@ -29,8 +32,10 @@ You can use the website to generate badges: https://shields.io/
 - Fun fact: I have a degree in Civil Engineering! :construction_worker:
 <br />
 
+<!--
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
 [![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
+-->
 
 ### Languages and Tools:
 
